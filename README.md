@@ -1,4 +1,4 @@
-# space_missions
+# Space Missions Application
 1) Database + instructions for installation and loading the data:
 
 This is a mobile application made in android studio that displays information about every space mission by running querys to a local database. This is the link to the original source of the dataset used in this project (https://www.kaggle.com/agirlcoding/all-space-missions-from-1957). However, I have done some preprocessing on the data by removing unwanted columns so the dataset used in the project is slightly different. Also, you do NOT need to download or load any data. The project already contains a csv file and the application will automatically create the database and read the data into a table from the file when you first launch the application.  
